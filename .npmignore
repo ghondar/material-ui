@@ -3,4 +3,5 @@ coverage
 docs
 examples
 test
+karma.conf.js
 icon-builder
